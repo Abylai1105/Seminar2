@@ -1,0 +1,15 @@
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.csproj.AssemblyReference.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.AssemblyInfoInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.AssemblyInfo.cs
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.csproj.CoreCompileInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/bin/Debug/net6.0/Zadacha011
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/bin/Debug/net6.0/Zadacha011.deps.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/bin/Debug/net6.0/Zadacha011.runtimeconfig.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/bin/Debug/net6.0/Zadacha011.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/bin/Debug/net6.0/Zadacha011.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/refint/Zadacha011.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/Zadacha011.genruntimeconfig.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_2/Zadacha011/obj/Debug/net6.0/ref/Zadacha011.dll
